@@ -1,4 +1,4 @@
-# Smart Contract Development - Using Hardhat & Ethers.js (w/ Typescript)
+# Smart Contract Development 
 
 ```shell
 yarn hardhat help
@@ -7,11 +7,7 @@ GAS_REPORT=true yarn hardhat test
 yarn hardhat node
 yarn compile
 yarn test
-yarn script
-```
-
-To run test script for web3RSVP contract: 
-```shell
 yarn compile
-yarn script
+yarn run-script
+yarn deploy
 ```
