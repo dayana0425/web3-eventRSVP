@@ -3971,9 +3971,9 @@ is-callable@^1.1.3, is-callable@^1.1.4, is-callable@^1.2.4:
   integrity sha512-nsuwtxZfMX67Oryl9LCQ+upnC0Z0BgpwntpS89m1H/TLF0zNfzfLMV/9Wa/6MZsj0acpEjAO0KF1xT6ZdLl95w==
 
 is-core-module@^2.8.1, is-core-module@^2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.9.0.tgz#e1c34429cd51c6dd9e09e0799e396e27b19a9c69"
-  integrity sha512-+5FPy5PnwmO3lvfMb0AsoPaBG+5KHUI0wYFXOtYPnVVVspTFUuMZNfNaNVRt3FZadstu2c8x23vykRW/NBoU6A==
+  version "2.10.0"
+  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.10.0.tgz#9012ede0a91c69587e647514e1d5277019e728ed"
+  integrity sha512-Erxj2n/LDAZ7H8WNJXd9tw38GYM3dv8rk8Zcs+jJuxYTW7sozH+SS8NtrSjVL1/vpLvWi1hxy96IzjJ3EHTJJg==
   dependencies:
     has "^1.0.3"
 
@@ -6441,9 +6441,9 @@ type@^1.0.1:
   integrity sha512-+5nt5AAniqsCnu2cEQQdpzCAh33kVx8n0VoFidKpB1dVVLAN/F+bgVOqOJqOnEnrhp222clB5p3vUlD+1QAnfg==
 
 type@^2.5.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/type/-/type-2.7.0.tgz#aaff4ac90514e0dc1095b54af70505ef16cf00a2"
-  integrity sha512-NybX0NBIssNEj1efLf1mqKAtO4Q/Np5mqpa57be81ud7/tNHIXn48FDVXiyGMBF90FfXc5o7RPsuRQrPzgMOMA==
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/type/-/type-2.7.1.tgz#aac6b9f9a75f97d9fc48f61d66e530ead194f219"
+  integrity sha512-rLp+w60+leZDK0J0r1Q+ZVAEoRjBs/qxEeHhfizjG9dHfv0cpfWDPI8U/qiNPQdEw5Tlb+yOo54jnFQw8yGOZA==
 
 typechain@^5.1.2:
   version "5.2.0"
